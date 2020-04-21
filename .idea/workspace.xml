@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d317aa43-31b6-4b2b-92ee-76cdb59410d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002.py" beforeDir="false" afterPath="$PROJECT_DIR$/002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.hello">
+  <component name="RunManager" selected="Python.hw1">
     <configuration name="002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="소웨개론_파이썬" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,8 +104,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="소웨개론_파이썬" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw1" />
         <item itemvalue="Python.hello" />
         <item itemvalue="Python.002" />
         <item itemvalue="Python.a" />
@@ -127,6 +149,7 @@
       <workItem from="1587288115539" duration="415000" />
       <workItem from="1587349809188" duration="9000" />
       <workItem from="1587361838559" duration="4757000" />
+      <workItem from="1587451049560" duration="1055000" />
     </task>
     <servers />
   </component>
@@ -134,34 +157,36 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1587435272706">
-      <screen x="0" y="23" width="1680" height="958" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587434923912" />
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1587435272706" />
-    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1587435272706">
-      <screen x="0" y="23" width="1680" height="958" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587434923911" />
-    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1587435272706" />
-    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1587435272705">
-      <screen x="0" y="23" width="1680" height="958" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587434923910" />
-    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1587435272705" />
-    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1587435272706">
-      <screen x="0" y="23" width="1680" height="958" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587434923912" />
-    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1587435272706" />
-    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1587361900874">
+    <state width="685" height="387" key="GridCell.Tab.0.bottom" timestamp="1587452466878">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="685" height="387" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587452466878" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1587435272706" />
+    <state width="685" height="387" key="GridCell.Tab.0.center" timestamp="1587452466877">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="685" height="387" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587452466877" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1587435272706" />
+    <state width="685" height="387" key="GridCell.Tab.0.left" timestamp="1587452466877">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="685" height="387" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587452466877" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1587435272705" />
+    <state width="685" height="387" key="GridCell.Tab.0.right" timestamp="1587452466877">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="685" height="387" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587452466877" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1587435272706" />
+    <state x="517" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1587451050883">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
     <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587361900874" />
+    <state x="517" y="349" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1587451050883" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/_$a.coverage" NAME="a Coverage Results" MODIFIED="1587367018623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_$002.coverage" NAME="002 Coverage Results" MODIFIED="1587371590840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_$hw1.coverage" NAME="hw1 Coverage Results" MODIFIED="1587452350468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_$hello.coverage" NAME="hello Coverage Results" MODIFIED="1587435088447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
