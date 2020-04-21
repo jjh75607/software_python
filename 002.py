@@ -1,15 +1,14 @@
 print(3 // 4)
 print(2 ** 3)
 
-
 n1 = 0o111  # 8
-oct(213) # 8변환
+oct(213)  # 8변환
 
 n2 = 0xABC  # 16
-hex(123) # 16변환
+hex(123)  # 16변환
 
 n3 = 0b111  # 2
-bin(312) # 2진수변
+bin(312)  # 2진수변
 
 str(1)
 float(2)  # 실수로 변환 inf, -inf 무한대
@@ -31,9 +30,9 @@ print(h + i)
 print(h * 3)
 
 a = 'Life is too short. You need to learn python'
-print(a[3]) # e
-print(a[-1]) # n
-print(a[4:10]) # 4 ~ 9, is to
+print(a[3])  # e
+print(a[-1])  # n
+print(a[4:10])  # 4 ~ 9, is to
 
 m = 4
 d = 20
