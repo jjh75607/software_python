@@ -1,5 +1,8 @@
 def has(a, *b):
-    return a in b[0]
+    for i in b[0]:
+        if a == i:
+            return True
+    return False
 
 
 a = 5

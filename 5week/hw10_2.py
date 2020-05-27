@@ -1,5 +1,8 @@
 def has(a, *b):
-    return a in b[0]
+    for i in b[0]:
+        if a == i:
+            return True
+    return False
 
 
 def intersect(a, b):
@@ -9,7 +12,6 @@ def intersect(a, b):
             s.add(i)
 
     return s
-
 
 
 a = {1, 2, 3}
