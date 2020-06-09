@@ -53,8 +53,8 @@
       <recent name="$PROJECT_DIR$/1week" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw10_2">
-    <configuration name="실습1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hw2And3">
+    <configuration name="class2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="소웨개론_파이썬" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,34 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5week" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7week" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5week/실습1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="실습2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="소웨개론_파이썬" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5week" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5week/실습2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7week/class2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,13 +142,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw2And3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="소웨개론_파이썬" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7week" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7week/hw2And3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw2And3" />
+        <item itemvalue="Python.class2" />
         <item itemvalue="Python.hw10_2" />
         <item itemvalue="Python.hw10_1" />
         <item itemvalue="Python.hw10_3" />
-        <item itemvalue="Python.실습2" />
-        <item itemvalue="Python.실습1" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +214,7 @@
       <workItem from="1590736034743" duration="40000" />
       <workItem from="1590991740129" duration="1810000" />
       <workItem from="1591022993047" duration="127000" />
+      <workItem from="1591597828863" duration="11657000" />
     </task>
     <servers />
   </component>
@@ -229,62 +230,71 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587971120545" />
-    <state x="627" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590462380531">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="627" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591605620541">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="627" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1590462380531" />
-    <state width="1638" height="240" key="GridCell.Tab.0.bottom" timestamp="1590557308576">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="627" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.961@0.23.1680.961" timestamp="1591605620541" />
+    <state width="1638" height="318" key="GridCell.Tab.0.bottom" timestamp="1591628840927">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="240" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590557308576" />
+    <state width="1638" height="240" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591603098944" />
     <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.23.1680.955@0.23.1680.955" timestamp="1589100796129" />
     <state width="1638" height="338" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1588575364336" />
     <state width="1638" height="210" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1590394484924" />
-    <state width="1638" height="240" key="GridCell.Tab.0.center" timestamp="1590557308575">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="318" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1591628840927" />
+    <state width="1638" height="318" key="GridCell.Tab.0.center" timestamp="1591628840926">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="240" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590557308575" />
+    <state width="1638" height="240" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591603098943" />
     <state width="1638" height="363" key="GridCell.Tab.0.center/0.23.1680.955@0.23.1680.955" timestamp="1589100796128" />
     <state width="1638" height="338" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1588575364335" />
     <state width="1638" height="210" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1590394484923" />
-    <state width="1638" height="240" key="GridCell.Tab.0.left" timestamp="1590557308574">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="318" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1591628840926" />
+    <state width="1638" height="318" key="GridCell.Tab.0.left" timestamp="1591628840926">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="240" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590557308574" />
+    <state width="1638" height="240" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591603098943" />
     <state width="1638" height="363" key="GridCell.Tab.0.left/0.23.1680.955@0.23.1680.955" timestamp="1589100796127" />
     <state width="1638" height="338" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1588575364334" />
     <state width="1638" height="210" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1590394484923" />
-    <state width="1638" height="240" key="GridCell.Tab.0.right" timestamp="1590557308575">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="318" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1591628840926" />
+    <state width="1638" height="318" key="GridCell.Tab.0.right" timestamp="1591628840927">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="240" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590557308575" />
+    <state width="1638" height="240" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591603098944" />
     <state width="1638" height="363" key="GridCell.Tab.0.right/0.23.1680.955@0.23.1680.955" timestamp="1589100796129" />
     <state width="1638" height="338" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1588575364335" />
     <state width="1638" height="210" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1590394484923" />
-    <state width="1638" height="318" key="GridCell.Tab.1.bottom" timestamp="1590396086511">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="318" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1591628840927" />
+    <state width="1638" height="318" key="GridCell.Tab.1.bottom" timestamp="1591628840928">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="318" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590396086511" />
     <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.23.1680.955@0.23.1680.955" timestamp="1589100796131" />
     <state width="1638" height="318" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1590394318611" />
-    <state width="1638" height="318" key="GridCell.Tab.1.center" timestamp="1590396086510">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="318" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1591628840928" />
+    <state width="1638" height="318" key="GridCell.Tab.1.center" timestamp="1591628840927">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="318" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590396086510" />
     <state width="1638" height="363" key="GridCell.Tab.1.center/0.23.1680.955@0.23.1680.955" timestamp="1589100796130" />
     <state width="1638" height="318" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1590394318611" />
-    <state width="1638" height="318" key="GridCell.Tab.1.left" timestamp="1590396086510">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="318" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1591628840927" />
+    <state width="1638" height="318" key="GridCell.Tab.1.left" timestamp="1591628840927">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="318" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590396086510" />
     <state width="1638" height="363" key="GridCell.Tab.1.left/0.23.1680.955@0.23.1680.955" timestamp="1589100796130" />
     <state width="1638" height="318" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1590394318611" />
-    <state width="1638" height="318" key="GridCell.Tab.1.right" timestamp="1590396086511">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="318" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1591628840927" />
+    <state width="1638" height="318" key="GridCell.Tab.1.right" timestamp="1591628840928">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="318" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590396086511" />
     <state width="1638" height="363" key="GridCell.Tab.1.right/0.23.1680.955@0.23.1680.955" timestamp="1589100796130" />
     <state width="1638" height="318" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1590394318611" />
+    <state width="1638" height="318" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1591628840928" />
     <state x="341" y="141" key="SettingsEditor" timestamp="1590736067989">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
@@ -303,10 +313,10 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="dock-window-1/0.23.1680.955@0.23.1680.955" timestamp="1589099601116" />
     <state x="100" y="85" width="1480" height="935" key="dock-window-1/0.23.1680.961@0.23.1680.961" timestamp="1590992398609" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1590557200006">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1591601804338">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590557200006" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591601804338" />
     <state x="505" y="236" width="670" height="617" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1589430599910" />
     <state x="505" y="236" width="670" height="619" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1590393910890" />
   </component>
@@ -319,7 +329,8 @@
     <SUITE FILE_PATH="coverage/_$hw10_3.coverage" NAME="hw10_3 Coverage Results" MODIFIED="1590468796650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5week" />
     <SUITE FILE_PATH="coverage/_$003.coverage" NAME="003 Coverage Results" MODIFIED="1587968688992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_$hello.coverage" NAME="hello Coverage Results" MODIFIED="1587435088447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/_$hw10_2.coverage" NAME="hw10_2 Coverage Results" MODIFIED="1590557212915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5week" />
+    <SUITE FILE_PATH="coverage/_$hw10_2.coverage" NAME="hw10_2 Coverage Results" MODIFIED="1591602453097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5week" />
+    <SUITE FILE_PATH="coverage/_$class2.coverage" NAME="class2 Coverage Results" MODIFIED="1591602472730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7week" />
     <SUITE FILE_PATH="coverage/_$hw1.coverage" NAME="hw1 Coverage Results" MODIFIED="1587452350468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_$hw7.coverage" NAME="hw7 Coverage Results" MODIFIED="1588572926282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2week" />
     <SUITE FILE_PATH="coverage/_$001.coverage" NAME="001 Coverage Results" MODIFIED="1590394254775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5week" />
@@ -327,6 +338,7 @@
     <SUITE FILE_PATH="coverage/_$hw9_2.coverage" NAME="hw9_2 Coverage Results" MODIFIED="1589812351072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4week" />
     <SUITE FILE_PATH="coverage/_$1.coverage" NAME="실습1 Coverage Results" MODIFIED="1590394344101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5week" />
     <SUITE FILE_PATH="coverage/_$hw8_2.coverage" NAME="hw8-2 Coverage Results" MODIFIED="1589199519094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3week" />
+    <SUITE FILE_PATH="coverage/_$hw2.coverage" NAME="hw2And3 Coverage Results" MODIFIED="1591628822148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7week" />
     <SUITE FILE_PATH="coverage/_$hw8_1.coverage" NAME="hw8-1 Coverage Results" MODIFIED="1589197929071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3week" />
     <SUITE FILE_PATH="coverage/_$2.coverage" NAME="실습2 Coverage Results" MODIFIED="1590394484916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5week" />
     <SUITE FILE_PATH="coverage/_$hw9_3.coverage" NAME="hw9_3 Coverage Results" MODIFIED="1590387193277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4week" />
